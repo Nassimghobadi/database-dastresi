@@ -1,0 +1,526 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "خانه",
+      "link": "https://google.com",
+      "dropdown": []
+    },
+    {
+      "id": "2",
+      "name": "لوازم جانبی موبایل و کامپیوتر",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "هوادار و نگهدارنده"
+        },
+        {
+          "id": 2,
+          "name": "تجهیزات ذخیره‌سازی"
+        },
+        {
+          "id": 3,
+          "name": "اسپیکر"
+        },
+        {
+          "id": 4,
+          "name": "ماوس و کیبورد و پد موس"
+        },
+        {
+          "id": 5,
+          "name": "هندزفری و هدست، میکروفون"
+        },
+        {
+          "id": 6,
+          "name": "پاوربانک و جعبه استارت"
+        },
+        {
+          "id": 7,
+          "name": "کابل شارژ"
+        },
+        {
+          "id": 8,
+          "name": "آداپتور و شارژر"
+        },
+        {
+          "id": 9,
+          "name": "دسته بازی و خنک‌کننده موبایل"
+        },
+        {
+          "id": 10,
+          "name": "انواع تبدیل برق"
+        },
+        {
+          "id": 11,
+          "name": "کابل و داکنگ، انتقال تصویر"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "کابل- مبدل- رابط",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "کابل HDMI"
+        },
+        {
+          "id": 2,
+          "name": "کابل پرینتر"
+        },
+        {
+          "id": 3,
+          "name": "کابل هارد اکسترنال"
+        },
+        {
+          "id": 4,
+          "name": "انواع رابط و تبدیل"
+        },
+        {
+          "id": 5,
+          "name": "کابل AUX"
+        },
+        {
+          "id": 6,
+          "name": "کابل 2 به 1 صدا"
+        },
+        {
+          "id": 7,
+          "name": "کابل اپتیکال"
+        },
+        {
+          "id": 8,
+          "name": "کابل OTG"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "لوازم تولید محتوا",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "میکروفون",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 2,
+          "name": "رینگ لایت و پایه",
+          "link": "http://digikala.com"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "لوازم شبکه",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "مودم-روتر",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 2,
+          "name": "هاب شبکه",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 3,
+          "name": "مودم همراه",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 4,
+          "name": "لوازم جانبی",
+          "link": "http://digikala.com"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "کنسول بازی و لوازم جانبی",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "هندزفری و هدست",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 2,
+          "name": "دسته بازی",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 3,
+          "name": "موس و کیبورد",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 4,
+          "name": "کیف",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 5,
+          "name": "کنسول",
+          "link": "http://digikala.com"
+        },
+        {
+          "id": 6,
+          "name": "شارژر دسته بازی",
+          "link": "http://digikala.com"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "لوازم خانگی و شخصی",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "text": "انواع گجت‌های جذاب"
+        },
+        {
+          "id": 2,
+          "name": "باتری و شارژر"
+        },
+        {
+          "id": 3,
+          "name": "اندروید باکس و گیرنده دیجیتال"
+        },
+        {
+          "id": 4,
+          "name": "آنتن رومیزی"
+        },
+        {
+          "id": 5,
+          "name": "مچ بند و ساعت هوشمند"
+        },
+        {
+          "id": 6,
+          "name": "محصولات کمیو"
+        },
+        {
+          "id": 7,
+          "name": "رابط برق و USB"
+        },
+        {
+          "id": 8,
+          "name": "اف ام پلیر"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "برندها",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "Neckin"
+        },
+        {
+          "id": 2,
+          "name": "pioneer"
+        },
+        {
+          "id": 3,
+          "name": "CP"
+        },
+        {
+          "id": 4,
+          "name": "Atech"
+        },
+        {
+          "id": 5,
+          "name": "Imore"
+        },
+        {
+          "id": 6,
+          "name": "Maxell"
+        },
+        {
+          "id": 7,
+          "name": "Anker"
+        },
+        {
+          "id": 8,
+          "name": "Ijoy"
+        },
+        {
+          "id": 9,
+          "name": "Modoco"
+        },
+        {
+          "id": 10,
+          "name": "Western Digital"
+        },
+        {
+          "id": 11,
+          "name": "Xiaomi"
+        },
+        {
+          "id": 12,
+          "name": "Panasonic"
+        },
+        {
+          "id": 13,
+          "name": "Powerology"
+        },
+        {
+          "id": 14,
+          "name": "Raypower"
+        },
+        {
+          "id": 15,
+          "name": "Aukey"
+        },
+        {
+          "id": 16,
+          "name": "yand"
+        },
+        {
+          "id": 17,
+          "name": "Logitech"
+        },
+        {
+          "id": 18,
+          "name": "SkullCandy"
+        },
+        {
+          "id": 19,
+          "name": "Apple"
+        },
+        {
+          "id": 20,
+          "name": "Camellon"
+        },
+        {
+          "id": 21,
+          "name": "Koluman Plus"
+        }
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2024/12/01/banner%20acefast.jpg",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/12/01/banner%20acefast.jpg"
+    },
+    {
+      "id": "a356",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png"
+    },
+    {
+      "id": "11bc",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "id": "c600"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "id": "95e3"
+    }
+  ],
+  "discount": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/12/10/powerology-pwcqc019-11.jpg",
+      "title": "شارژر وایرلس رومیزی 3 کاره پاورولوژی مدل Powerology PWUQC027",
+      "mainPrice": "3,700,000",
+      "discount": "2,700,000",
+      "nowPrice": "2,700,000"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/12/09/by-v4d-11.jpg",
+      "title": "شارژر وایرلس رومیزی 3 کاره پاورولوژی مدل Powerology PWUQC027",
+      "mainPrice": "3,700,000",
+      "discount": "2,700,000",
+      "nowPrice": "2,700,000"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/30/pwh-11.jpg",
+      "title": "کابل شارژ کنفی USB به تایپ سی 1.8 متری مک دودو 6271",
+      "mainPrice": "200,000",
+      "discount": "169,000",
+      "nowPrice": "169,000"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/10/19/mcdodo-2273-2.jpg",
+      "title": "میکروفون یقه ای بی سیم بویا 4 مخاطب مدل Boya BY-V4D",
+      "mainPrice": "10,000,000",
+      "discount": "8,425,000",
+      "nowPrice": "8,425,000"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2021/06/30/MCDO-6271-1.jpg",
+      "title": "شارژر دیواری گان 65 وات پاورولوژی مدل Powerology PWUQC0019",
+      "mainPrice": "1,500,000",
+      "discount": "1,390,000",
+      "nowPrice": "1,390,000"
+    }
+  ],
+  "slider2": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+      "id": "6"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png",
+      "id": "7"
+    }
+  ],
+  "slider3": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/18/B8ZZJ0-11.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": "دستگاه بخور سرد مدل W50000",
+      "price": "2,350,000"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": "پاوربانک و چراغ قوه 10000 میلی آمپر پرودو مدل Porodo PD-PBFCH030",
+      "price": "2,600,000"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K4-11.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": " کابل تبدیل مادگی TRS به Type C بوی...  ",
+      "price": "2,600,000"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "title": "شارژر وایرلس",
+      "description": "پد وایرلس شارژ 3 کاره بیسوس مدل Baseus BS-W531",
+      "price": "3,128,000"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/18/B8ZZJ0-11.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": "دستگاه بخور سرد مدل W50000",
+      "price": "2,350,000"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": "پاوربانک و چراغ قوه 10000 میلی آمپر پرودو مدل Porodo PD-PBFCH030",
+      "price": "2,600,000"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K4-11.jpg",
+      "title": "انواع گجت های جذاب",
+      "description": " کابل تبدیل مادگی TRS به Type C بوی...  ",
+      "price": "2,600,000"
+    },
+    {
+      "id": "8",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "title": "شارژر وایرلس",
+      "description": "پد وایرلس شارژ 3 کاره بیسوس مدل Baseus BS-W531",
+      "price": "3,128,000"
+    }
+  ],
+
+  "features": [
+    {
+      "id": 1,
+      "icon": "https://www.dastresi.com/images/icons/icon2.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "description": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب را انجام دهید."
+    },
+    {
+      "id": 2,
+      "icon": "https://www.dastresi.com/images/icons/icon1.png",
+      "title": "قیمت مناسب با بالاترین کیفیت",
+      "description": "گروه دسترسی در تلاش است که کالا‌ی با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
+    },
+    {
+      "id": 3,
+      "icon": "https://www.dastresi.com/images/icons/icon3.png",
+      "title": "ارسال سریع",
+      "description": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می‌گیرد."
+    },
+    {
+      "id": 4,
+      "icon": "https://www.dastresi.com/images/icons/icon4.png",
+      "title": "امکان خرید حضوری",
+      "description": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
+    }
+  ],
+  "slider5": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/03/ssd-external-dastresi-Artboard%201%20copy%203.jpg",
+      "description": "دستگاه بخور سرد مدل W50000"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/25/best-powerology-power-bank-dastresiArtboard%201%20copy%202.jpg",
+      "description": "پاوربانک و چراغ قوه 10000 میلی آمپر پرودو مدل "
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/fake-or-original-iphone-charger-dastresi-Artboard%201.jpg",
+      "description": " کابل تبدیل مادگی TRS به Type C بوی...  "
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg",
+      "description": "پد وایرلس شارژ 3 کاره بیسوس مدل Baseus BS-W531"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/17/How-does-a-wireless-charger-work-dastresi-Artboard%201.jpg",
+      "description": "دستگاه بخور سرد مدل W50000"
+    }
+    
+  ]
+}
